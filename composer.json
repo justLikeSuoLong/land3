@@ -6,6 +6,7 @@
         "log",
         "logger"
     ],
+    "license": "MIT",
     "require": {
         "psr/log": "^1.1"
     },
