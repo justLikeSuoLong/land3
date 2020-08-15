@@ -23,7 +23,7 @@ class ToFile implements LoggerInterface
      * @param string $message
      * @param array $context
      *
-     * @throws
+     * @throws InvalidArgumentException
      */
     public function log($level, $message, array $context = array())
     {
